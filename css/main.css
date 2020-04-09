@@ -462,6 +462,10 @@ ul.checklist {
     padding:1.5rem 0px;
 }
     
+    .planSelector-price h3 {
+        padding: 1.5rem 0rem;
+    }
+    
     .headerText>h4 {
         margin: 2rem 0rem
     }
