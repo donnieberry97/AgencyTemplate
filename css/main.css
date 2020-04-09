@@ -451,15 +451,15 @@ ul.checklist {
 }
     
     .planSelector-name {
-        padding: 1.5rem 0rem;
+        padding: 1.5em 0rem;
     }
 
 .planSelector-price {
-    padding:50px 0px;
+    padding:1.5em 0px;
 }
     
     .headerText>h4 {
-        margin: 1rem 0rem
+        margin: 1em 0rem
     }
     
 }
